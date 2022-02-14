@@ -33,7 +33,7 @@ public class BaseTest {
         driver.get("https://www.kitapyurdu.com/");
 
     }
-/*
+
     @After
 
     public void tearDown(){
@@ -44,7 +44,7 @@ public class BaseTest {
 
         }
 
-    }*/
+    }
 }
 
 
